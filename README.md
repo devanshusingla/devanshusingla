@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devanshusingla
+- 👀 I’m interested in coding and doing complex stuff
+- 🌱 I’m currently pursuing CSE degree from IIT Kanpur
